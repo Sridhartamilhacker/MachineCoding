@@ -1,0 +1,14 @@
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/bin/Debug/net10.0/TicTacToe
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/bin/Debug/net10.0/TicTacToe.deps.json
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/bin/Debug/net10.0/TicTacToe.runtimeconfig.json
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/bin/Debug/net10.0/TicTacToe.dll
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/bin/Debug/net10.0/TicTacToe.pdb
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/obj/Debug/net10.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/obj/Debug/net10.0/TicTacToe.AssemblyInfoInputs.cache
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/obj/Debug/net10.0/TicTacToe.AssemblyInfo.cs
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/obj/Debug/net10.0/TicTacToe.csproj.CoreCompileInputs.cache
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/obj/Debug/net10.0/TicTacToe.dll
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/obj/Debug/net10.0/refint/TicTacToe.dll
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/obj/Debug/net10.0/TicTacToe.pdb
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/obj/Debug/net10.0/TicTacToe.genruntimeconfig.cache
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/TicTacToe/obj/Debug/net10.0/ref/TicTacToe.dll

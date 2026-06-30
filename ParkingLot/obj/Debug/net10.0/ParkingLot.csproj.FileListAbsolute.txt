@@ -1,0 +1,15 @@
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/bin/Debug/net10.0/ParkingLot
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/bin/Debug/net10.0/ParkingLot.deps.json
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/bin/Debug/net10.0/ParkingLot.runtimeconfig.json
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/bin/Debug/net10.0/ParkingLot.dll
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/bin/Debug/net10.0/ParkingLot.pdb
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/obj/Debug/net10.0/ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/obj/Debug/net10.0/ParkingLot.AssemblyInfoInputs.cache
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/obj/Debug/net10.0/ParkingLot.AssemblyInfo.cs
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/obj/Debug/net10.0/ParkingLot.csproj.CoreCompileInputs.cache
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/obj/Debug/net10.0/ParkingLot.sourcelink.json
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/obj/Debug/net10.0/ParkingLot.dll
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/obj/Debug/net10.0/refint/ParkingLot.dll
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/obj/Debug/net10.0/ParkingLot.pdb
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/obj/Debug/net10.0/ParkingLot.genruntimeconfig.cache
+/home/sridhar/Sridhar/Learning/SystemDesign/MachineCoding/ParkingLot/obj/Debug/net10.0/ref/ParkingLot.dll
